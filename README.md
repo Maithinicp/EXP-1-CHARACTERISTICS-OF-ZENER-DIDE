@@ -1,8 +1,11 @@
 # EXP-1-CHARACTERISTICS-OF-ZENER-DIDE
 Experiment No.: 1
 Aim
+
 To plot the V-I characteristics of Zener Diode.
+
 Apparatus Required
+
 S. No.	Item	Range	Quantity
 1.	Zener diode	Z 5.8 V	1
 2.	Resistor	1 kΩ	1
@@ -11,7 +14,9 @@ S. No.	Item	Range	Quantity
 5.	Dual RPS	(0–30) V	1
 6.	Bread Board	–	1
 7.	Connecting Wires	–	1 bunch
+	
 Theory
+
 Zener diode – The diodes, which are designed to operate in the breakdown region. The other name is avalanche diode. There are two types of breakdown in these diodes, namely avalanche and Zener breakdown. In avalanche breakdown, the conduction in reverse bias is due to avalanche multiplication of charge carriers. In Zener diode, breakdown is due to direct rupture of covalent bonds because of strong electric field. The actual intensity of the electric field strength that produces Zener breakdown voltage determines the breakdown voltage.
 
 Circuit diagram (forward and reverse bias)
